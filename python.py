@@ -1,2 +1,2 @@
-print('Hello World')
-print('My Name Is Hitori')
+print('Hello world')
+print('My name is game')
